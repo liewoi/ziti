@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "王汉宗中明体注音-subfont";
+  src: url("王汉宗中明体注音-subfont.woff2") format("woff2"),
+       url("王汉宗中明体注音-subfont.woff") format("woff"),
+       url("王汉宗中明体注音-subfont.ttf") format("truetype"),
+       url("王汉宗中明体注音-subfont.eot") format("embedded-opentype"),
+       url("王汉宗中明体注音-subfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
